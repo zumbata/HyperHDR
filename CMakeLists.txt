@@ -642,3 +642,5 @@ if (NOT ENABLE_BONJOUR)
 	message( FATAL_ERROR "The network discovery service (ENABLE_BONJOUR) is an important feature of HyperHDR. If you know what you are doing, remove this safe-break.")
 endif()
 
+
+
